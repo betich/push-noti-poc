@@ -1,7 +1,7 @@
 # Push Notification Test
 
 - [x] Notification API
-- [ ] Push Noti with Messaging Server
+- [x] Push Noti with Messaging Server
 
 ```bash
 pnpm i
