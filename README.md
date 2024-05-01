@@ -8,7 +8,7 @@ pnpm i
 pnpm dev
 ```
 
-![preview](docs/image.png)
+![preview](image.png)
 
 ## Read More
 
